@@ -1,0 +1,14 @@
+{
+    "people":[
+        {
+            "id":1,
+            "name": "Ain",
+            "isMarried": true
+        },
+        {
+            "id":2,
+            "name": "Rio",
+            "isMarried": true
+        }
+    ]
+}
